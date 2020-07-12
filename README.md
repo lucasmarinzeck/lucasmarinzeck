@@ -1,16 +1,17 @@
-### Hi there 👋
+### Who am I 
+Im Lucas Marinzeck, currently workign at [Softwrap](https://softwrap.com.br/) as FullStack Web Developer
 
-<!--
-**lucasmarinzeck/lucasmarinzeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills
+- Javascript
+- NodeJs
+- ReactJs
+- React Native
+- Java
+- Linux
+- Docker
 
-Here are some ideas to get you started:
+### Where to find me ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/lucasmarinzeck/)
+[Twitter](https://twitter.com/Lucas_Marinzeck)
+Email: lucasmarinzeck@gmail.com
