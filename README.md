@@ -9,6 +9,11 @@ Im Lucas Marinzeck, currently workign at [Softwrap](https://softwrap.com.br/) as
 - Java
 - Linux
 - Docker
+- SQL (Postgres)
+- NoSQL (MongoDb, Firebase)
+
+### Current learning 
+- Typescript
 
 ### Where to find me ?
 
