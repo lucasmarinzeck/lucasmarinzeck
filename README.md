@@ -22,4 +22,4 @@ Im Lucas Marinzeck, currently workign at [Softwrap](https://softwrap.com.br/) as
 
 - [Linkedin](https://www.linkedin.com/in/lucasmarinzeck/)
 - [Twitter](https://twitter.com/Lucas_Marinzeck)
-- Email: lucasmarinzeck@gmail.com
+- Email: lucasmarinzeck.dev@gmail.com
